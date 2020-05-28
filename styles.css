@@ -1,0 +1,10 @@
+.schrift_arial {
+    font-family: arial;
+    font-weight: bold;
+ }
+#absatz1 {
+    color: red;
+ }
+#absatz2 {
+    color: blue;
+ }
